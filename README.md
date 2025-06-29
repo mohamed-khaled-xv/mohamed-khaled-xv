@@ -44,7 +44,6 @@ Built with **Python**, **Tkinter**, **AI Logic**
 
 ## 📊 GitHub Stats
 
-![Mohamed Khaled's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed-khaled-xv&show_icons=true&theme=tokyonight)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-khaled-xv&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
