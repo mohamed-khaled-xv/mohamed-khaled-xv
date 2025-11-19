@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Mohamed Khaled
 
-🎓 Fresh Graduate – B.Sc. in Computer & Systems Engineering, Ain Shams University  
+🎓 Computer Engineering Graduate, Ain Shams University
 📍 Based in Cairo, Egypt  
-📱 Passionate about **React Native** and building impactful cross-platform mobile apps  
-🔧 Previously worked on **full-stack PHP development** during my internship at ITI
+📱 Passionate about **React Native** and building impactful cross-platform mobile apps 
 
 ---
 
